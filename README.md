@@ -12,4 +12,4 @@
 <br><b>If the installation process is complete, you will get a link to go to sd-webui, use the second link to start it.</b>
 <img src="https://github.com/noe999x/sd-colab/blob/main/image/6.png">
 <br><br>
-<img src="https://github.com/noe999x/sd-colab/blob/main/image/7.png">
+<img src="https://github.com/noe999x/sd-colab/blob/main/image/8.png">
