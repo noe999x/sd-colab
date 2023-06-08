@@ -1,18 +1,11 @@
-<h3 align="left">How to used :</h3>
-<b>1. Open Google Colab web : </b><a href="https://colab.research.google.com" target="_blank"/>here!</a>
+<h3 align="left">Cara pakai :</h3>
+<br><b>1. Klik <i>Hubungkan</i> di pojok kanan atas untuk menghubungkan pada server.</b>
 <img src="https://github.com/noe999x/sd-colab/blob/main/images/1.png">
-<br><b>2. In this section, copy my github repository address there.</b>
+<br><b>2. Jika server sudah terhubung selanjutnya kalian tinggal <i>play</i> music player yang sudah tersedia, gunanya agar ketika kalian sibuk membuat gambar dengan stable diffusion nanti, tab pada program cell nya tidak akan terputus sambungan pada servernya, namun sesekali kalian harus tetap memantau tab program cellnya, sesekali muncul captcha yang harus di verifikasi. Untuk music player disini opsional, kalian bisa menggunakannya atau tidak.</b>
 <img src="https://github.com/noe999x/sd-colab/blob/main/images/2.png">
-<br><b>3. Click <i>Connect</i> in the top right corner to request access to the colab server.</b>
-<img src="https://github.com/noe999x/sd-colab/blob/main/image/3.png">
-<br><b>4. And then, if the server is already connected, you only need to run the cell program which later you only need to wait for the web-ui installation process.</b>
-<img src="https://github.com/noe999x/sd-colab/blob/main/image/4.png">
-<br><b>5. When you get a warning when starting the cell program process as shown in the picture, just ignore it by clicking Continue.</b>
-<img src="https://github.com/noe999x/sd-colab/blob/main/image/5.png">
-<br><b>6. If the installation process is complete, you will get a link to go to sd-webui, use the second link to start it.</b>
-<img src="https://github.com/noe999x/sd-colab/blob/main/image/6.png">
-<br><b>7. Complete.</b>
-<img src="https://github.com/noe999x/sd-colab/blob/main/image/8.png">
+<br><b>3. Ketika kalian mencoba menjalankan cell program, kalian akan mendapat 2x alert yang seperti pada gambar, kalian hanya perlu mengabaikannya.</b>
+<img src="https://github.com/noe999x/sd-colab/blob/main/images/3.png">
+<img src="https://github.com/noe999x/sd-colab/blob/main/images/4.png">
 
 <h3 align="left">Support :</h3>
 <p><a href="https://www.buymeacoffee.com/21sysai"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="21sysai" /></a></p><br><br><br>
