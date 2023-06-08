@@ -6,7 +6,10 @@
 <br><b>3. Ketika kalian mencoba menjalankan cell program, kalian akan mendapat 2x alert yang seperti pada gambar, kalian hanya perlu mengabaikannya.</b>
 <img src="https://github.com/noe999x/sd-colab/blob/main/images/3.png">
 <img src="https://github.com/noe999x/sd-colab/blob/main/images/4.png">
-
+<br><b>4. Tunggu sampai proses instalisasi program selesai dan kalian akan mendapatkan sebuah link sd-webui, gunakan link tersebut untuk memulai stable diffusion.</b>
+<img src="https://github.com/noe999x/sd-colab/blob/main/images/5.png">
+<br><b>5. Selesai.</b>
+<img src="https://github.com/noe999x/sd-colab/blob/main/images/6.png">
 <h3 align="left">Support :</h3>
 <p><a href="https://www.buymeacoffee.com/21sysai"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="21sysai" /></a></p><br><br><br>
 
