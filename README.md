@@ -1,5 +1,25 @@
+<h3 align="left">sd-colab-1-click link</h3>
+<a href="https://colab.research.google.com/github/noe999x/sd-colab/blob/main/abyssorangemix3.ipynb"/>- abyssorangemix3</a><br>
+Contoh checkpoint : <br><br>
+<a href="https://colab.research.google.com/github/noe999x/sd-colab/blob/main/anypastel.ipynb"/>- anypastel</a><br>
+Contoh checkpoint : <br><br>
+<a href="https://colab.research.google.com/github/noe999x/sd-colab/blob/main/dosmix.ipynb"/>- dosmix</a><br>
+Contoh checkpoint : <br><br>
+<a href="https://colab.research.google.com/github/noe999x/sd-colab/blob/main/majicMIX_realisticv5.ipynb"/>- majicMIX_realisticv5</a><br>
+Contoh checkpoint : <br><br>
+<a href="https://colab.research.google.com/github/noe999x/sd-colab/blob/main/meinahentaiv4.ipynb"/>- meinahentaiv4</a><br>
+Contoh checkpoint : <br><br>
+<a href="https://colab.research.google.com/github/noe999x/sd-colab/blob/main/perfectworld.ipynb"/>- perfectworld</a><br>
+Contoh checkpoint : <br><br>
+<a href="https://colab.research.google.com/github/noe999x/sd-colab/blob/main/pikasnewgeneration.ipynb"/>- pikasnewgeneration</a><br>
+Contoh checkpoint : <br><br>
+<a href="https://colab.research.google.com/github/noe999x/sd-colab/blob/main/realdosmix.ipynb"/>- realdosmix</a><br>
+Contoh checkpoint : <br><br>
+<a href="https://colab.research.google.com/github/noe999x/sd-colab/blob/main/toonyou_beta3.ipynb"/>- toonyou_beta3</a><br>
+Contoh checkpoint : <br><br>
+
 <h3 align="left">Cara pakai :</h3>
-<br><b>1. Klik <i>Hubungkan</i> di pojok kanan atas untuk menghubungkan pada server.</b>
+<b>1. Klik <i>Hubungkan</i> di pojok kanan atas untuk menghubungkan pada server.</b>
 <img src="https://github.com/noe999x/sd-colab/blob/main/images/1.png">
 <br><b>2. Jika server sudah terhubung selanjutnya kalian tinggal <i>play</i> music player yang sudah tersedia, gunanya agar ketika kalian sibuk membuat gambar dengan stable diffusion nanti, tab pada program cell nya tidak akan terputus sambungan pada servernya, namun sesekali kalian harus tetap memantau tab program cellnya, sesekali muncul captcha yang harus di verifikasi. Untuk music player disini opsional, kalian bisa menggunakannya atau tidak.</b>
 <img src="https://github.com/noe999x/sd-colab/blob/main/images/2.png">
